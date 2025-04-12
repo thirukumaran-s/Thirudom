@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thirudom
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning Spring
+- 🌱 I’m a Java Backend Developer
 - 💞️ I’m looking to collaborate on Spring and java
 - 📫 How to reach me ...
 
