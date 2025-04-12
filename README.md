@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web App Development
 - 🌱 I’m a Java Backend Developer
 - 💞️ I’m looking to collaborate on Spring and java
-- 📫 How to reach me ...
+- 📫 Reach me @ thiruk833@gmail.com
 
 <!---
 Thirudom/Thirudom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
