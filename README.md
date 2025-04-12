@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Thirudom
-- 👀 I’m interested in Development
+- 👋 Hi, I’m @Thirukumaran
+- 👀 I’m interested in Web App Development
 - 🌱 I’m a Java Backend Developer
 - 💞️ I’m looking to collaborate on Spring and java
 - 📫 How to reach me ...
